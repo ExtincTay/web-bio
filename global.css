@@ -27,7 +27,7 @@ body {
 .Main a {
     float: right;
     padding: 7px;
-    color: white;
+    color: black;
 }
 .fa-twitter:hover {
     color: #1DA1F2;
