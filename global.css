@@ -11,6 +11,7 @@ body {
     border: 4px solid white;
     margin: auto;
     width: 50%;
+    height: auto;
     padding: 10px;
     text-align: center;
     border-radius: 25px;
@@ -21,10 +22,11 @@ body {
     width: 25%;
     border-radius: 50%;
     border: 4px solid rgb(21, 243, 206);
-    padding: 5px;
+    padding: 10px;
 }
 .Main i {
     float: right;
+    padding: 5px;
 }
 .fa-twitter:hover {
     color: #1DA1F2;
