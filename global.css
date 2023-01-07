@@ -27,10 +27,10 @@ body {
     float: right;
 }
 .fa-twitter:hover {
-    color: blue;
+    color: #1DA1F2;
 }
 .fa-twitch:hover {
-    color: purple;
+    color: #bf94ff;
 }
 @font-face {
     font-family: 'Comfortaa';
