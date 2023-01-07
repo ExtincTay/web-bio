@@ -20,7 +20,11 @@ body {
     float: left;
     width: 25%;
     border-radius: 50%;
-    border: 3px solid white;
+    border: 3px solid rgb(21, 243, 206);
+    padding: 5px;
+}
+.Main i {
+    float: right;
 }
 @font-face {
     font-family: 'Comfortaa';
