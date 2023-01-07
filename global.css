@@ -35,6 +35,9 @@ body {
 .fa-twitch:hover {
     color: #bf94ff;
 }
+.fa-globe:hover {
+    color: #ff0037;
+}
 @font-face {
     font-family: 'Comfortaa';
     src: url('Comfortaa-Regular.ttf, Comfortaa-Bold.ttf, Comfortaa-Light.ttf');
