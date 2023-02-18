@@ -20,7 +20,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
-.Main img {
+.Main .pfp {
     float: left;
     width: 18%;
     border-radius: 50%;
@@ -50,7 +50,7 @@ body {
     .Main {
         width: 70%;
     }
-    .Main img {
+    .Main .pfp {
         float: none;
         width: 40%;
     }
