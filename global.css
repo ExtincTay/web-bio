@@ -55,3 +55,9 @@ body {
         width: 40%;
     }
 }
+
+.ssimg {float: left; width: 7%; margin-right: 20px; min-width: 7%;}
+.flex {display: flex;}
+.flex2 {display: flex; flex-direction: column; align-items: center; margin-top: -1%;}
+.ssh2 {padding-right: 20px;}
+.ssp {padding-right: 20px; font-size: 20px; font-weight: bold; margin-top: -1%;}
