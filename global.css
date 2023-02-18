@@ -56,6 +56,7 @@ body {
     }
 }
 
+.ss {margin-left: 30%;}
 .ssimg {float: left; width: 7%; margin-right: 20px; min-width: 7%;}
 .flex {display: flex;}
 .flex2 {display: flex; flex-direction: column; align-items: center; margin-top: -1%;}
