@@ -57,7 +57,7 @@ body {
 }
 
 .ss {position: absolute; left: 50%;}
-.ssimg {float: left; width: 7%; margin-right: 20px; min-width: 7%;}
+.ssimg {float: left; width: 30%; margin-right: 20px; min-width: 7%;}
 .flex {display: flex;}
 .flex2 {display: flex; flex-direction: column; align-items: center; margin-top: -1%;}
 .ssh2 {padding-right: 20px;}
