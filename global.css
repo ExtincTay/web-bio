@@ -56,7 +56,7 @@ body {
     }
 }
 
-.ss {position: absolute; left: 50%;}
+.ss {position: absolute; left: 45%;}
 .ssimg {float: left; width: 30%; margin-right: 20px; min-width: 7%;}
 .flex {display: flex;}
 .flex2 {display: flex; flex-direction: column; align-items: center; margin-top: -1%;}
