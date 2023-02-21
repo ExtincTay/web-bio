@@ -62,7 +62,6 @@ body {
     }
     .ss {
         left: 50%;
-        transform: translateY(50%);
     }
 }
 
