@@ -54,6 +54,12 @@ body {
         float: none;
         width: 40%;
     }
+    .text1 {
+        margin-top: -90px
+    }
+    .text2 {
+        margin-top: -90px
+    }
 }
 
 .ss {position: absolute; left: 45%;}
