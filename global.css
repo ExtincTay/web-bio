@@ -60,6 +60,10 @@ body {
     .text2 {
         margin-top: -90px
     }
+    .ss {
+        left: 50%;
+        transform: translateY(50%);
+    }
 }
 
 .ss {position: absolute; left: 45%;}
